@@ -1,0 +1,22 @@
+# WorkBuddy 项目数据（内部记忆 / 缓存，不属于发布内容）
+.workbuddy/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时与备份文件
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+*.log
